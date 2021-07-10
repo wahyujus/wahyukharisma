@@ -45238,7 +45238,8 @@ N.Wx.prototype={
 $1:function(a){return!0},
 $S:33}
 F.xl.prototype={
-L:function(a,b){return new S.pb(new F.po("Flutter Demo Home Page",null),"Wahyu Kharisma Mujiono | Portfolio",X.a32(null,C.hF),null)}}
+L:function(a,b){var s="Wahyu Kharisma Mujiono | Portfolio"
+return new S.pb(new F.po(s,null),s,X.a32(null,C.hF),null)}}
 F.po.prototype={
 aT:function(){return new F.t6(C.n)}}
 F.t6.prototype={
